@@ -1,8 +1,0 @@
-streamlit>=1.37
-pandas>=2.0
-numpy>=1.24
-requests>=2.31
-folium>=0.16
-streamlit-folium>=0.20
-streamlit-geolocation>=0.0.10
-plotly>=5.18
